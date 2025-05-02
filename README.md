@@ -29,9 +29,10 @@
  directorio específico, como si fuese que estás trabajando en un data lake.
  
  ○ En caso de que estés haciendo una extracción incremental, se recomienda
- particionar por cada fecha y también por hora (si corresponde)
+ particionar por cada fecha y también por hora (si corresponde)  
  ○ En el caso de datos relativamente estáticos, podes particionar. o no, por algún
- otro campo, si consideras necesario.
+ otro campo, si consideras necesario.  
+ 
  Para más información podés revisar la consigna de la entrega parcial nro 1.
  Parte2
  Leer los datos almacenados en la parte 1 y aplicar tareas de procesamiento o

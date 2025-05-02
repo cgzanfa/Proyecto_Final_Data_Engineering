@@ -1,12 +1,12 @@
-##  DataEngineering
-### Trabajofinalintegrador
-### 🎯Objetivos
+#  DataEngineering
+## Trabajo final integrador
+### 🎯 Objetivos
  ● Construir un trabajo integrador que abarque las principales responsabilidades en
  ingeniería de datos: extracción, almacenamiento y procesamiento de datos
  
- 📝 **Consigna**
+ ### 📝 Consigna
  
- **Parte1**
+ #### Parte1
  
  Desarrollar un programa en Python que realice:
  ✔️ 1.  extracción de una API, como fuente de datos,

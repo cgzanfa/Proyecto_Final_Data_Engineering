@@ -30,13 +30,16 @@
  
  ○ En caso de que estés haciendo una extracción incremental, se recomienda
  particionar por cada fecha y también por hora (si corresponde)  
- ○ En el caso de datos relativamente estáticos, podes particionar. o no, por algún
+ ○ En el caso de datos relativamente estáticos, podes particionar o no, por algún
  otro campo, si consideras necesario.  
  
  Para más información podés revisar la consigna de la entrega parcial nro 1.
- Parte2
+ 
+ #### Parte2
  Leer los datos almacenados en la parte 1 y aplicar tareas de procesamiento o
- transformación de datos con Pandas. Esas tareas de procesamiento pueden ser:- Eliminación de duplicados- Eliminación o reemplazo de nulos- Conversión detipos de datos de columnas- Renombrarcolumnas- Formatearcolumnas de tipo fecha.- Crear nuevas columnas a partir de alguna lógica (Por ejemplo, una columna
+ transformación de datos con Pandas. Esas tareas de procesamiento pueden ser:  
+ - Eliminación de duplicados
+ - - Eliminación o reemplazo de nulos- Conversión detipos de datos de columnas- Renombrarcolumnas- Formatearcolumnas de tipo fecha.- Crear nuevas columnas a partir de alguna lógica (Por ejemplo, una columna
  booleana que indique si una temperatura está por arriba de un límite)- Cruzardataframes usando JOINS- Aplicar agregaciones por medio de GROUP BY y funciones como MAX, MIN,
  AVG, etc.- etc.
  Deberás realizar al menos 4 tareas de transformación.

@@ -49,7 +49,7 @@
 - Aplicar agregaciones por medio de GROUP BY y funciones como MAX, MIN,
  AVG, etc
 - etc.
-- 
+ 
  **Deberás realizar al menos 4 tareas de transformación.**
   
  El resultado del procesamiento debe ser guardado en uno, o varios, archivos Delta lake

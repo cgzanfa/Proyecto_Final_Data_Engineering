@@ -22,6 +22,7 @@
  estadísticas deportivas, etc, Los demás endpoints pueden ser datos estáticos o
  metadatos, como por ejemplo campos que describen a una estación meteorológica
  (nombre, coordenadas, ciudad, etc.).
+ 
  Deberás realizar una extracción incremental y una full, según corresponda.
  Además tendrás que guardar cada DataFrame en formato Delta lake, cada uno en un
  directorio específico, como si fuese que estás trabajando en un data lake..

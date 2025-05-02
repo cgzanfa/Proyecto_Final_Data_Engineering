@@ -39,7 +39,11 @@
  Leer los datos almacenados en la parte 1 y aplicar tareas de procesamiento o
  transformación de datos con Pandas. Esas tareas de procesamiento pueden ser:  
  - Eliminación de duplicados
- - - Eliminación o reemplazo de nulos- Conversión detipos de datos de columnas- Renombrarcolumnas- Formatearcolumnas de tipo fecha.- Crear nuevas columnas a partir de alguna lógica (Por ejemplo, una columna
+ - Eliminación o reemplazo de nulos
+ - Conversión de tipos de datos de columnas
+ - Renombrar columnas
+ - Formatear columnas de tipo fecha
+ - Crear nuevas columnas a partir de alguna lógica (Por ejemplo, una columna
  booleana que indique si una temperatura está por arriba de un límite)- Cruzardataframes usando JOINS- Aplicar agregaciones por medio de GROUP BY y funciones como MAX, MIN,
  AVG, etc.- etc.
  Deberás realizar al menos 4 tareas de transformación.

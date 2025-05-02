@@ -16,7 +16,7 @@
  en formato Delta lake.  
  
  Deberás usar la librería requests para obtener datos de 2 o más endpoints de la misma
- API. Al menos unode los endpoints debe devolver datos temporales, que se actualicen
+ API. Al menos uno de los endpoints debe devolver datos temporales, que se actualicen
  periódicamente (mínimo una vez al día), como por ejemplo: valores meteorológicos,
  cotizaciones de monedas o acciones de compañías, variaciones de índices económicos,
  estadísticas deportivas, etc, Los demás endpoints pueden ser datos estáticos o
@@ -24,8 +24,10 @@
  (nombre, coordenadas, ciudad, etc.).
  
  Deberás realizar una extracción incremental y una full, según corresponda.
+ 
  Además tendrás que guardar cada DataFrame en formato Delta lake, cada uno en un
- directorio específico, como si fuese que estás trabajando en un data lake..
+ directorio específico, como si fuese que estás trabajando en un data lake.
+ 
  ○ En caso de que estés haciendo una extracción incremental, se recomienda
  particionar por cada fecha y también por hora (si corresponde)
  ○ En el caso de datos relativamente estáticos, podes particionar. o no, por algún

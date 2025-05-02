@@ -44,8 +44,13 @@
  - Renombrar columnas
  - Formatear columnas de tipo fecha
  - Crear nuevas columnas a partir de alguna lógica (Por ejemplo, una columna
- booleana que indique si una temperatura está por arriba de un límite)- Cruzardataframes usando JOINS- Aplicar agregaciones por medio de GROUP BY y funciones como MAX, MIN,
- AVG, etc.- etc.
- Deberás realizar al menos 4 tareas de transformación.
+ booleana que indique si una temperatura está por arriba de un límite)
+- Cruzardataframes usando JOINS
+- Aplicar agregaciones por medio de GROUP BY y funciones como MAX, MIN,
+ AVG, etc
+- etc.
+- 
+ **Deberás realizar al menos 4 tareas de transformación.**
+  
  El resultado del procesamiento debe ser guardado en uno, o varios, archivos Delta lake
  en directorio que corresponda

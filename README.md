@@ -4,8 +4,10 @@
  ● Construir un trabajo integrador que abarque las principales responsabilidades en
  ingeniería de datos: extracción, almacenamiento y procesamiento de datos
  
- **Consigna**
- Parte1
+ 📝 **Consigna**
+ 
+ **Parte1**
+ 
  Desarrollar un programa en Python que realice:
  ✔️ 1.  extracción de una API, como fuente de datos,
  ✔️ 2. convierta los datos obtenidos como DataFrames de Pandas

@@ -10,11 +10,9 @@
  
  Desarrollar un programa en Python que realice:
  
- ✔️ 1.  extracción de una API, como fuente de datos
- 
- ✔️ 2. convierta los datos obtenidos como DataFrames de Pandas
- 
- ✔️ 3. guardelos de forma cruda, sin transformaciones o con leves transformaciones,
+ ✔️1.  extracción de una API, como fuente de datos
+ ✔️2. convierta los datos obtenidos como DataFrames de Pandas
+ ✔️3. guardelos de forma cruda, sin transformaciones o con leves transformaciones,
  en formato Delta lake.
  
  Deberás usar la librería requests para obtener datos de 2 o más endpoints de la misma
